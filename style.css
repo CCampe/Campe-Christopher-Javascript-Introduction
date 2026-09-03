@@ -1,0 +1,40 @@
+/Page style*/
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/*Page spacing*/
+header,
+main,
+footer {
+    padding: 20px;
+}
+
+/*Styled Header*/
+header {
+    background-color:#ceeeee;
+}
+
+/*Styled footer*/
+footer {
+    background-color:#eeceee;
+}
+
+/* Class selector */
+.content-box {
+border: 1px solid
+#cccccc;
+
+padding: 10px;
+margin-bottom: 20px;
+}
+
+/*Element selector */
+h1 {
+    color:
+    #333333;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
